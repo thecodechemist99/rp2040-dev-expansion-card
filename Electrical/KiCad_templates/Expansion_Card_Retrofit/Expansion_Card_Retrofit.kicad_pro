@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 0.875,
-          "width": 0.2
+          "drill": 0.75,
+          "height": 1.258,
+          "width": 1.258
         },
         "silk_line_width": 0.1016,
         "silk_text_italic": false,
@@ -534,7 +534,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Expansion_Card_Retrofit.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
